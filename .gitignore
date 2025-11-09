@@ -1,5 +1,5 @@
 *.wav
 sample
 *.hdf5
-snapshot
+snapshots
 *.zip
