@@ -3,3 +3,5 @@ sample
 *.hdf5
 snapshots
 *.zip
+Dataset
+haarcascade_files
